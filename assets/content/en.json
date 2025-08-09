@@ -1,0 +1,125 @@
+{
+   "language":"en",
+   "site":"RenderKraft",
+   "sections":{
+      "hero":{
+         "headline":"Visualize, experiment, decide: We review and optimize your designs in 3D",
+         "subheadline":"Make informed decisions, minimize errors, save time, and optimize outcomes across creative and sales phases with our 3D imagery and models."
+      },
+      "intro":{
+         "title":"What we do",
+         "body":"We help our clients review their designs in a three-dimensional environment and test different design, material, color, and furnishing options before a project is realized."
+      },
+      "services":{
+         "title":"3D visualization and modeling for interior and exterior spaces",
+         "items":[
+            {
+               "name":"Interior renderings",
+               "description":"Photorealistic depictions of interiors to experience layout, furnishings, and color schemes before construction or renovation."
+            },
+            {
+               "name":"Exterior renderings",
+               "description":"Holistic visualization of facades and urban or natural surroundings — ideal for presentations and competitions."
+            },
+            {
+               "name":"Custom 3D modeling",
+               "description":"Models of interior elements (rooms with furniture, accessories, lighting) and exterior elements (buildings, residential complexes)."
+            }
+         ],
+         "positioning":"We specialize in collaborating with small to mid-sized architecture firms and independent professionals. We offer flexible solutions, personal support, and tailored results. Working in parallel with architects or designers, we accelerate the entire project: while you handle other tasks, we build models and visualizations to enable faster decisions. We have the experience and technology to deliver projects of any scale."
+      },
+      "tiers":{
+         "title":"Service options to match your needs",
+         "models":[
+            {
+               "name":"Fast visualization",
+               "ideal_for":"Quick review of forms, materials, and concepts; internal alignment or early design phases requiring fast decisions.",
+               "note":"Visual quality is fundamental-level since the focus is on speed rather than refinement."
+            },
+            {
+               "name":"Medium quality",
+               "ideal_for":"Balanced time and quality; everyday presentations, client proposals, or projects of medium complexity.",
+               "note":"Significantly more detailed than the fast option, while remaining feasible within a reasonable timeframe."
+            },
+            {
+               "name":"High-end visualization",
+               "ideal_for":"Highest detail and realism for major presentations, marketing materials, brochures, posters, and final deliverables where the best impression matters.",
+               "note":"Requires more time and commitment; delivers top visual quality and impact."
+            }
+         ]
+      },
+      "workflow":{
+         "title":"Our workflow: flexible and client-centric",
+         "intro":"Every client and project is unique. We adapt our process to your needs and way of working.",
+         "steps":[
+            {
+               "step":1,
+               "title":"Initial contact",
+               "details":[
+                  "Reach us via email, online contact form, or phone.",
+                  "In the first conversation, we clarify your goals, expectations, and project scope."
+               ]
+            },
+            {
+               "step":2,
+               "title":"Providing materials",
+               "details":[
+                  "We coordinate how you share plans, sketches, references, or other relevant materials — securely and quickly via our file exchange platform."
+               ]
+            },
+            {
+               "step":3,
+               "title":"Quotation",
+               "details":[
+                  "After reviewing your information, you receive a clear, detailed quote aligned with your requirements."
+               ]
+            },
+            {
+               "step":4,
+               "title":"Production and alignment",
+               "details":[
+                  "After quote approval, we define the approach and expected outcomes together.",
+                  "As needed, we produce quick 3D models for variant checks (with or without materials).",
+                  "We create a neutral base model (“white model”) and select camera positions together for optimal visualization.",
+                  "Material selection: you decide which materials belong to each element — we implement them.",
+                  "Furnishing selection: you specify which furniture and objects to integrate, or we propose suitable details."
+               ]
+            },
+            {
+               "step":5,
+               "title":"Preview, revisions, and final delivery",
+               "details":[
+                  "You receive three preview images for review.",
+                  "Up to three revision rounds are included to ensure the result matches your expectations.",
+                  "You then receive the final visualization in the agreed quality and desired format — ready for further use."
+               ]
+            }
+         ]
+      },
+      "contact_form_help":{
+         "title":"How to fill out the contact form",
+         "intro":"To prepare an accurate quote, please complete the following fields:",
+         "fields":[
+            "Full name",
+            "Company name (if applicable)",
+            "Contact email",
+            "Project information: Is it an exterior or interior architecture project?",
+            "Desired image types: Do you need interior, exterior visualizations, or both?",
+            "Desired service level: Fast, medium, or high-quality execution?",
+            "Approximate project square meters",
+            "3D model availability: Do you already have a 3D model, or should we create it?",
+            "Furnishings, materials, and colors: Are these defined, or do you need assistance selecting them?"
+         ],
+         "note":"The more information you provide upfront, the more efficiently and accurately we can calculate your quote."
+      },
+      "imprint":{
+         "title":"Imprint",
+         "name":"Miguel Alejandro Marak",
+         "address":"Würmtalstraße 71, 81375 Munich",
+         "phone":"xxxx",
+         "email":"info@renderkraft.com",
+         "web":"www.renderkraft.com",
+         "vat":"VAT ID (if applicable) per §27a UStG: DExxxx"
+      }
+   }
+}

@@ -1,0 +1,125 @@
+{
+   "language":"de",
+   "site":"RenderKraft",
+   "sections":{
+      "hero":{
+         "headline":"Visualisieren, experimentieren, entscheiden: Wir überprüfen und optimieren Ihre Designs in 3D",
+         "subheadline":"Mit unseren 3D-Bildern und Modellen treffen Sie fundierte Entscheidungen, minimieren Fehler, sparen Zeit und optimieren Ergebnisse in allen kreativen und vertrieblichen Phasen."
+      },
+      "intro":{
+         "title":"Was wir tun",
+         "body":"Wir helfen unseren Kunden, ihre Entwürfe in einer dreidimensionalen Umgebung zu überprüfen und verschiedene Design-, Material-, Farb- und Ausstattungsoptionen zu testen, bevor ein Projekt realisiert wird."
+      },
+      "services":{
+         "title":"3D-Visualisierung und Modellierung für Innen- und Außenräume",
+         "items":[
+            {
+               "name":"Innenraum-Renderings",
+               "description":"Fotorealistische Darstellungen von Innenräumen, um Raumaufteilung, Möblierung und Farbgestaltung vor Bau oder Umgestaltung zu erleben."
+            },
+            {
+               "name":"Außenraum-Renderings",
+               "description":"Ganzheitliche Visualisierung von Fassaden und urbanem oder natürlichem Umfeld – ideal für Präsentationen und Wettbewerbe."
+            },
+            {
+               "name":"Individuelle 3D-Modellierung",
+               "description":"Modelle von Innenraumelementen (Räume mit Möbeln, Accessoires, Leuchten) und Außenelementen (Gebäude, Wohnanlagen)."
+            }
+         ],
+         "positioning":"Wir sind spezialisiert auf die Zusammenarbeit mit kleinen und mittleren Architekturbüros sowie mit selbstständigen Fachleuten. Wir bieten flexible Lösungen, persönliche Betreuung und maßgeschneiderte Ergebnisse. Dank paralleler Arbeit mit Architekten oder Designern beschleunigen wir den gesamten Projektablauf: Während Sie an anderen Aufgaben arbeiten, erstellen wir Modelle und Visualisierungen und ermöglichen so schnellere Entscheidungen. Wir verfügen über die Erfahrung und Technologie, um Projekte jeden Umfangs zu realisieren."
+      },
+      "tiers":{
+         "title":"Leistungsoptionen nach Ihrem Bedarf",
+         "models":[
+            {
+               "name":"Schnelle Visualisierung",
+               "ideal_for":"Schnelle Überprüfung von Formen, Materialien und Konzepten; interne Abstimmungen oder frühe Entwurfsphasen mit schnellen Entscheidungen.",
+               "note":"Die visuelle Qualität ist grundlegend, da der Fokus auf Geschwindigkeit und nicht auf Ausarbeitung liegt."
+            },
+            {
+               "name":"Mittlere Qualität",
+               "ideal_for":"Ausgewogen zwischen Zeitaufwand und Qualität; für alltägliche Präsentationen, Angebote an Kunden oder Projekte mittlerer Komplexität.",
+               "note":"Deutlich detaillierter als die Schnelloption, dennoch im angemessenen Zeitrahmen umsetzbar."
+            },
+            {
+               "name":"High-End-Visualisierung",
+               "ideal_for":"Höchster Detailgrad und Realismus für wichtige Präsentationen, Werbematerial, Broschüren, Plakate und finale Ausarbeitungen.",
+               "note":"Erfordert mehr Zeit und Engagement; steht für höchste visuelle Qualität und Wirkung."
+            }
+         ]
+      },
+      "workflow":{
+         "title":"Unser Workflow: Flexibel und kundenorientiert",
+         "intro":"Jeder Kunde und jedes Projekt ist einzigartig. Daher passen wir unseren Ablauf flexibel an Ihre Bedürfnisse und Arbeitsweise an.",
+         "steps":[
+            {
+               "step":1,
+               "title":"Erstkontakt",
+               "details":[
+                  "Kontakt per E-Mail, Online-Kontaktformular oder Telefon.",
+                  "Im ersten Gespräch klären wir Ziele, Vorstellungen und den Projektumfang."
+               ]
+            },
+            {
+               "step":2,
+               "title":"Bereitstellung der Unterlagen",
+               "details":[
+                  "Abstimmung zur sicheren und schnellen Übermittlung von Plänen, Skizzen, Referenzen oder sonstigen Unterlagen über unsere Austauschplattform."
+               ]
+            },
+            {
+               "step":3,
+               "title":"Angebotserstellung",
+               "details":[
+                  "Nach Prüfung Ihrer Informationen erhalten Sie ein klares, detailliertes Angebot entsprechend Ihren Anforderungen."
+               ]
+            },
+            {
+               "step":4,
+               "title":"Produktion und Abstimmung",
+               "details":[
+                  "Nach Angebotsbestätigung legen wir Vorgehensweise und gewünschte Ergebnisse gemeinsam fest.",
+                  "Je nach Bedarf erstellen wir schnelle 3D-Modelle zur Variantenprüfung (mit oder ohne Materialien).",
+                  "Wir erstellen ein neutrales Basismodell („weißes Modell“) und wählen mit Ihnen die Kamerapositionen für die optimale Visualisierung.",
+                  "Materialauswahl: Sie entscheiden, welche Materialien zu welchem Element gehören – wir setzen es um.",
+                  "Ausstattungswahl: Sie teilen uns gewünschtes Mobiliar und Objekte mit, oder wir schlagen passende Details vor."
+               ]
+            },
+            {
+               "step":5,
+               "title":"Vorschau, Korrekturen und finale Lieferung",
+               "details":[
+                  "Drei Vorschaubilder zur Durchsicht.",
+                  "Bis zu drei Korrekturschleifen sind enthalten, damit das Ergebnis exakt Ihren Vorstellungen entspricht.",
+                  "Anschließend erhalten Sie die finale Visualisierung in der vereinbarten Qualität und im gewünschten Format."
+               ]
+            }
+         ]
+      },
+      "contact_form_help":{
+         "title":"Wie fülle ich das Kontaktformular aus?",
+         "intro":"Für ein passgenaues Angebot bitten wir um vollständige Angaben in folgenden Feldern:",
+         "fields":[
+            "Vollständiger Name",
+            "Firmenname (falls zutreffend)",
+            "Kontakt-E-Mail",
+            "Projektinformation: Außen- oder Innenarchitekturprojekt?",
+            "Gewünschte Bildtypen: Innenraum-, Außenraumvisualisierungen oder beides?",
+            "Gewünschte Leistungsoption: Schnelle, mittlere oder hochqualitative Ausarbeitung?",
+            "Ca. Quadratmeterzahl des Projekts",
+            "3D-Modell vorhanden: Haben Sie bereits ein 3D-Modell oder sollen wir es erstellen?",
+            "Ausstattung, Materialien und Farben: Bereits definiert oder wünschen Sie Unterstützung?"
+         ],
+         "note":"Je mehr Informationen Sie uns zu Beginn bereitstellen, desto effizienter und genauer können wir Ihr Angebot kalkulieren."
+      },
+      "impressum":{
+         "title":"Impressum",
+         "name":"Miguel Alejandro Marak",
+         "address":"Würmtalstraße 71, 81375 München",
+         "phone":"xxxx",
+         "email":"info@renderkraft.com",
+         "web":"www.renderkraft.com",
+         "vat":"USt-IdNr. (falls vorhanden) gem. § 27a UStG: DExxxx"
+      }
+   }
+}
